@@ -91,5 +91,33 @@ a{
     background-image: url(images/exp-bg.png);
     background-repeat: no-repeat;
     background-position: left;
-    
+}
+ .card img{
+     width: 100%;
+ }
+ .one{
+     border: 2px solid rgb(214, 213, 213);
+     width: 400px;
+     height: 600px;
+     text-align: center;
+     padding: 30px 5px 0px 5px;
+     box-shadow: 10px 10px 20px silver;
+     font-size: 40px;
+ }
+ .two{
+    border: 2px solid rgb(214, 213, 213);
+    width: 400px;
+    height: 600px;
+    text-align: center;
+    padding: 30px 5px 0px 5px;
+    box-shadow: 10px 10px 20px silver;
+    font-size: 40px;
+    margin-left: 50px;
+}
+.card{
+    display: flex;
+    margin-top: 100px;
+    margin-left: 450px;
+    margin-bottom: 50px;
+}
     
